@@ -241,6 +241,41 @@ section { padding: 6rem 0; }
 }
 
 /* ===== PROJECTS ===== */
+.project-featured {
+  border: 1px solid var(--accent2) !important;
+  background: linear-gradient(135deg, rgba(163,113,247,.06), rgba(88,166,255,.04)) !important;
+  margin-bottom: 1.5rem;
+}
+.project-featured-header {
+  display: flex; align-items: flex-start; gap: 1.25rem; flex-wrap: wrap;
+  margin-bottom: 1.25rem;
+}
+.project-os-badge {
+  display: inline-block;
+  background: rgba(163,113,247,.15); border: 1px solid rgba(163,113,247,.4);
+  color: var(--accent2); border-radius: 20px;
+  padding: .2rem .75rem; font-size: .75rem; font-weight: 600;
+  margin-bottom: .3rem; letter-spacing: .04em;
+}
+.project-featured-body {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;
+}
+.project-featured-label {
+  font-size: .78rem; text-transform: uppercase; letter-spacing: .08em;
+  color: var(--text-muted); margin-bottom: .6rem; font-weight: 600;
+}
+.project-featured-list {
+  padding-left: 1.1rem; color: var(--text-muted); font-size: .88rem;
+}
+.project-featured-list li { margin-bottom: .4rem; }
+.project-featured-list li strong { color: var(--text); }
+code {
+  font-family: 'JetBrains Mono', monospace;
+  background: var(--bg3); border: 1px solid var(--border);
+  border-radius: 4px; padding: .1rem .35rem; font-size: .82em;
+  color: var(--accent);
+}
+
 .projects-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem; }
 .project-card {
   background: var(--bg2); border: 1px solid var(--border);
@@ -347,7 +382,7 @@ footer {
   .hero-actions { justify-content: center; }
   .hero-badges { justify-content: center; }
   .hero-graphic { display: none; }
-  .about-grid, .skills-grid, .projects-grid, .patents-grid, .edu-grid { grid-template-columns: 1fr; }
+  .about-grid, .skills-grid, .projects-grid, .patents-grid, .edu-grid, .project-featured-body { grid-template-columns: 1fr; }
   .about-stats { grid-template-columns: repeat(3, 1fr); }
 }
 
