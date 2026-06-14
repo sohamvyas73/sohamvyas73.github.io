@@ -276,6 +276,20 @@ code {
   color: var(--accent);
 }
 
+.projects-divider {
+  display: flex; align-items: center; gap: 1rem;
+  margin: 2.5rem 0 1.75rem;
+}
+.projects-divider::before,
+.projects-divider::after {
+  content: ''; flex: 1;
+  height: 1px; background: var(--border);
+}
+.projects-divider span {
+  font-size: .78rem; font-weight: 600; text-transform: uppercase;
+  letter-spacing: .1em; color: var(--text-muted); white-space: nowrap;
+}
+
 .projects-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem; }
 .project-card {
   background: var(--bg2); border: 1px solid var(--border);
