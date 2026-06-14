@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="mailto:sohamvyas73@gmail.com"><img src="https://img.shields.io/badge/Email-sohamvyas73%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/soham-vyas"><img src="https://img.shields.io/badge/LinkedIn-soham--vyas-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=sohamvyas"><img src="https://img.shields.io/badge/Google%20Scholar-9%2B%20Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/soham-vyas-062a3312a"><img src="https://img.shields.io/badge/LinkedIn-soham--vyas-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?user=vtKjzUYAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Google%20Scholar-9%2B%20Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Gujarat%2C%20India-green?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
@@ -136,7 +136,7 @@ AI Engineer with **4+ years of experience** designing and deploying production-g
 
 ## Publications
 
-> 9+ publications listed on [Google Scholar](https://scholar.google.com/citations?user=sohamvyas)
+> 9+ publications listed on [Google Scholar](https://scholar.google.com/citations?user=vtKjzUYAAAAJ&hl=en&oi=ao)
 
 | Title | Venue | Year |
 |-------|-------|------|
@@ -157,5 +157,5 @@ AI Engineer with **4+ years of experience** designing and deploying production-g
 
 <p align="center">
   <i>Open to collaborations in AI research, production LLM systems, and healthcare/fintech AI.</i><br/>
-  <a href="mailto:sohamvyas73@gmail.com">sohamvyas73@gmail.com</a> · <a href="https://www.linkedin.com/in/soham-vyas">LinkedIn</a> · <a href="https://scholar.google.com/citations?user=sohamvyas">Google Scholar</a>
+  <a href="mailto:sohamvyas73@gmail.com">sohamvyas73@gmail.com</a> · <a href="https://www.linkedin.com/in/soham-vyas-062a3312a">LinkedIn</a> · <a href="https://scholar.google.com/citations?user=vtKjzUYAAAAJ&hl=en&oi=ao">Google Scholar</a>
 </p>
